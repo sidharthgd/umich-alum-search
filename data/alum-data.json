@@ -1,0 +1,4390 @@
+[
+  {
+    "name": "Jasmine Wilson",
+    "major": "Data Science",
+    "current_company": "Stripe",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Figma"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jasmine-wilson"
+  },
+  {
+    "name": "George Wilson",
+    "major": "Psychology",
+    "current_company": "Duolingo",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "Tesla"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-wilson"
+  },
+  {
+    "name": "Hannah Brown",
+    "major": "Data Science",
+    "current_company": "Tesla",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "OpenAI"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-brown"
+  },
+  {
+    "name": "George Wilson",
+    "major": "Computer Science",
+    "current_company": "Databricks",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "Goldman Sachs"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-wilson"
+  },
+  {
+    "name": "Ethan Brown",
+    "major": "Mathematics",
+    "current_company": "NVIDIA",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Goldman Sachs",
+      "OpenAI",
+      "Cruise"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-brown"
+  },
+  {
+    "name": "Charlie Davis",
+    "major": "Psychology",
+    "current_company": "MedTechAI",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "Microsoft"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-davis"
+  },
+  {
+    "name": "Jasmine Brown",
+    "major": "Business",
+    "current_company": "Google",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "Tesla",
+      "OpenAI",
+      "Cruise"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jasmine-brown"
+  },
+  {
+    "name": "Hannah Garcia",
+    "major": "Political Science",
+    "current_company": "BenchSci",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "Snap Inc.",
+      "KLA",
+      "Cruise"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-garcia"
+  },
+  {
+    "name": "George Johnson",
+    "major": "Business",
+    "current_company": "Amazon",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "Apple",
+      "Intel",
+      "MedTechAI"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-johnson"
+  },
+  {
+    "name": "Bob Williams",
+    "major": "Psychology",
+    "current_company": "Stripe",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "BenchSci"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-williams"
+  },
+  {
+    "name": "Charlie Johnson",
+    "major": "Psychology",
+    "current_company": "Duolingo",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "Figma"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-johnson"
+  },
+  {
+    "name": "Alice Anderson",
+    "major": "Psychology",
+    "current_company": "MedTechAI",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "Figma",
+      "Duolingo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-anderson"
+  },
+  {
+    "name": "Charlie Brown",
+    "major": "Mechanical Engineering",
+    "current_company": "BenchSci",
+    "current_position": "Marketing Manager",
+    "previous_companies": [
+      "Microsoft",
+      "Tesla"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-brown"
+  },
+  {
+    "name": "George Anderson",
+    "major": "Political Science",
+    "current_company": "OpenAI",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "Waymo",
+      "Amazon",
+      "Apple"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-anderson"
+  },
+  {
+    "name": "Jasmine Brown",
+    "major": "Biomedical Engineering",
+    "current_company": "Figma",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Tesla",
+      "Meta",
+      "BenchSci"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jasmine-brown"
+  },
+  {
+    "name": "George Brown",
+    "major": "Economics",
+    "current_company": "Stripe",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "Apple",
+      "Waymo",
+      "KLA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-brown"
+  },
+  {
+    "name": "Fiona Jones",
+    "major": "Psychology",
+    "current_company": "MedTechAI",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "Tesla"
+    ],
+    "linkedin": "https://www.linkedin.com/in/fiona-jones"
+  },
+  {
+    "name": "Jasmine Wilson",
+    "major": "Data Science",
+    "current_company": "Google",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "Databricks",
+      "Cruise",
+      "OpenAI"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jasmine-wilson"
+  },
+  {
+    "name": "Hannah Anderson",
+    "major": "Business",
+    "current_company": "Meta",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "Tesla"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-anderson"
+  },
+  {
+    "name": "Fiona Smith",
+    "major": "Electrical Engineering",
+    "current_company": "Meta",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "KLA",
+      "MedTechAI"
+    ],
+    "linkedin": "https://www.linkedin.com/in/fiona-smith"
+  },
+  {
+    "name": "Jasmine Miller",
+    "major": "Biomedical Engineering",
+    "current_company": "KLA",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "BenchSci"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jasmine-miller"
+  },
+  {
+    "name": "Jasmine Smith",
+    "major": "Political Science",
+    "current_company": "MedTechAI",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "Meta",
+      "Databricks"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jasmine-smith"
+  },
+  {
+    "name": "Ethan Garcia",
+    "major": "Mathematics",
+    "current_company": "Waymo",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "BenchSci"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-garcia"
+  },
+  {
+    "name": "Fiona Miller",
+    "major": "Mechanical Engineering",
+    "current_company": "Figma",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Microsoft",
+      "Databricks",
+      "Meta"
+    ],
+    "linkedin": "https://www.linkedin.com/in/fiona-miller"
+  },
+  {
+    "name": "Ethan Smith",
+    "major": "Biomedical Engineering",
+    "current_company": "Databricks",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "Intel",
+      "NVIDIA",
+      "Google"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-smith"
+  },
+  {
+    "name": "Charlie Brown",
+    "major": "Economics",
+    "current_company": "Intel",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "Duolingo",
+      "BenchSci",
+      "Microsoft"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-brown"
+  },
+  {
+    "name": "Fiona Johnson",
+    "major": "Biomedical Engineering",
+    "current_company": "Tesla",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "OpenAI",
+      "NVIDIA",
+      "BenchSci"
+    ],
+    "linkedin": "https://www.linkedin.com/in/fiona-johnson"
+  },
+  {
+    "name": "Charlie Jones",
+    "major": "Mechanical Engineering",
+    "current_company": "Cruise",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "OpenAI",
+      "Goldman Sachs",
+      "Stripe"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-jones"
+  },
+  {
+    "name": "Ethan Davis",
+    "major": "Mathematics",
+    "current_company": "Amazon",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "OpenAI"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-davis"
+  },
+  {
+    "name": "George Jones",
+    "major": "Business",
+    "current_company": "BenchSci",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "Apple",
+      "NVIDIA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-jones"
+  },
+  {
+    "name": "Ian Garcia",
+    "major": "Business",
+    "current_company": "Meta",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "Google",
+      "Stripe"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-garcia"
+  },
+  {
+    "name": "Diana Smith",
+    "major": "Psychology",
+    "current_company": "Microsoft",
+    "current_position": "Marketing Manager",
+    "previous_companies": [
+      "Apple",
+      "Waymo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-smith"
+  },
+  {
+    "name": "Diana Miller",
+    "major": "Economics",
+    "current_company": "Intel",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "BenchSci",
+      "Microsoft"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-miller"
+  },
+  {
+    "name": "Ethan Williams",
+    "major": "Computer Science",
+    "current_company": "Meta",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "Tesla",
+      "Apple",
+      "Duolingo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-williams"
+  },
+  {
+    "name": "Charlie Garcia",
+    "major": "Computer Science",
+    "current_company": "Waymo",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "Amazon",
+      "Microsoft",
+      "Figma"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-garcia"
+  },
+  {
+    "name": "Charlie Brown",
+    "major": "Biomedical Engineering",
+    "current_company": "Cruise",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "Duolingo",
+      "Tesla",
+      "Waymo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-brown"
+  },
+  {
+    "name": "Diana Brown",
+    "major": "Political Science",
+    "current_company": "Databricks",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "Waymo",
+      "BenchSci",
+      "KLA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-brown"
+  },
+  {
+    "name": "Alice Garcia",
+    "major": "Data Science",
+    "current_company": "Apple",
+    "current_position": "Marketing Manager",
+    "previous_companies": [
+      "Duolingo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-garcia"
+  },
+  {
+    "name": "George Johnson",
+    "major": "Electrical Engineering",
+    "current_company": "Cruise",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "Goldman Sachs",
+      "Amazon"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-johnson"
+  },
+  {
+    "name": "Charlie Garcia",
+    "major": "Mechanical Engineering",
+    "current_company": "Cruise",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "Tesla",
+      "Snap Inc.",
+      "Apple"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-garcia"
+  },
+  {
+    "name": "Jasmine Brown",
+    "major": "Computer Science",
+    "current_company": "Duolingo",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "Stripe",
+      "Tesla",
+      "MedTechAI"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jasmine-brown"
+  },
+  {
+    "name": "Jasmine Williams",
+    "major": "Mathematics",
+    "current_company": "OpenAI",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "KLA",
+      "Figma",
+      "Apple"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jasmine-williams"
+  },
+  {
+    "name": "Fiona Smith",
+    "major": "Data Science",
+    "current_company": "Goldman Sachs",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "Microsoft"
+    ],
+    "linkedin": "https://www.linkedin.com/in/fiona-smith"
+  },
+  {
+    "name": "Hannah Williams",
+    "major": "Data Science",
+    "current_company": "Intel",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "Goldman Sachs",
+      "Meta"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-williams"
+  },
+  {
+    "name": "Ian Jones",
+    "major": "Biomedical Engineering",
+    "current_company": "Meta",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "Intel",
+      "Amazon"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-jones"
+  },
+  {
+    "name": "Ethan Miller",
+    "major": "Psychology",
+    "current_company": "Databricks",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Goldman Sachs",
+      "Stripe"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-miller"
+  },
+  {
+    "name": "Ethan Johnson",
+    "major": "Psychology",
+    "current_company": "Intel",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Databricks",
+      "Waymo",
+      "BenchSci"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-johnson"
+  },
+  {
+    "name": "Charlie Davis",
+    "major": "Electrical Engineering",
+    "current_company": "Amazon",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "Goldman Sachs"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-davis"
+  },
+  {
+    "name": "Alice Williams",
+    "major": "Mechanical Engineering",
+    "current_company": "Waymo",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Tesla",
+      "Google"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-williams"
+  },
+  {
+    "name": "Ian Jones",
+    "major": "Electrical Engineering",
+    "current_company": "Stripe",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Databricks"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-jones"
+  },
+  {
+    "name": "Ethan Wilson",
+    "major": "Business",
+    "current_company": "Meta",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Google"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-wilson"
+  },
+  {
+    "name": "Ian Jones",
+    "major": "Political Science",
+    "current_company": "Meta",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "Google"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-jones"
+  },
+  {
+    "name": "Bob Brown",
+    "major": "Biomedical Engineering",
+    "current_company": "Google",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "MedTechAI",
+      "Tesla"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-brown"
+  },
+  {
+    "name": "Hannah Williams",
+    "major": "Biomedical Engineering",
+    "current_company": "Waymo",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Databricks",
+      "OpenAI"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-williams"
+  },
+  {
+    "name": "Hannah Anderson",
+    "major": "Economics",
+    "current_company": "OpenAI",
+    "current_position": "Marketing Manager",
+    "previous_companies": [
+      "Apple"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-anderson"
+  },
+  {
+    "name": "Diana Miller",
+    "major": "Psychology",
+    "current_company": "Duolingo",
+    "current_position": "Marketing Manager",
+    "previous_companies": [
+      "Intel"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-miller"
+  },
+  {
+    "name": "George Davis",
+    "major": "Data Science",
+    "current_company": "KLA",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "Tesla"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-davis"
+  },
+  {
+    "name": "Alice Miller",
+    "major": "Data Science",
+    "current_company": "OpenAI",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "Databricks"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-miller"
+  },
+  {
+    "name": "Hannah Johnson",
+    "major": "Mechanical Engineering",
+    "current_company": "Figma",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "Stripe",
+      "Microsoft"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-johnson"
+  },
+  {
+    "name": "Bob Williams",
+    "major": "Biomedical Engineering",
+    "current_company": "Snap Inc.",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "Waymo",
+      "NVIDIA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-williams"
+  },
+  {
+    "name": "George Garcia",
+    "major": "Computer Science",
+    "current_company": "Tesla",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "Google",
+      "Duolingo",
+      "BenchSci"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-garcia"
+  },
+  {
+    "name": "Fiona Wilson",
+    "major": "Electrical Engineering",
+    "current_company": "Tesla",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Snap Inc.",
+      "KLA",
+      "OpenAI"
+    ],
+    "linkedin": "https://www.linkedin.com/in/fiona-wilson"
+  },
+  {
+    "name": "Alice Jones",
+    "major": "Mechanical Engineering",
+    "current_company": "Intel",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "Amazon",
+      "Waymo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-jones"
+  },
+  {
+    "name": "George Jones",
+    "major": "Biomedical Engineering",
+    "current_company": "KLA",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "Stripe",
+      "OpenAI",
+      "Duolingo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-jones"
+  },
+  {
+    "name": "Bob Williams",
+    "major": "Mechanical Engineering",
+    "current_company": "BenchSci",
+    "current_position": "Marketing Manager",
+    "previous_companies": [
+      "Amazon",
+      "Google"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-williams"
+  },
+  {
+    "name": "George Garcia",
+    "major": "Business",
+    "current_company": "KLA",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "NVIDIA",
+      "OpenAI",
+      "Waymo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-garcia"
+  },
+  {
+    "name": "Fiona Johnson",
+    "major": "Biomedical Engineering",
+    "current_company": "Duolingo",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "Meta",
+      "OpenAI",
+      "Amazon"
+    ],
+    "linkedin": "https://www.linkedin.com/in/fiona-johnson"
+  },
+  {
+    "name": "Charlie Davis",
+    "major": "Psychology",
+    "current_company": "BenchSci",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "Waymo",
+      "OpenAI"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-davis"
+  },
+  {
+    "name": "Alice Jones",
+    "major": "Computer Science",
+    "current_company": "Figma",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "Apple"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-jones"
+  },
+  {
+    "name": "Ian Garcia",
+    "major": "Mechanical Engineering",
+    "current_company": "MedTechAI",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "Duolingo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-garcia"
+  },
+  {
+    "name": "Ian Johnson",
+    "major": "Mechanical Engineering",
+    "current_company": "Intel",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Figma"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-johnson"
+  },
+  {
+    "name": "Fiona Johnson",
+    "major": "Mechanical Engineering",
+    "current_company": "KLA",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "Amazon",
+      "Snap Inc.",
+      "Figma"
+    ],
+    "linkedin": "https://www.linkedin.com/in/fiona-johnson"
+  },
+  {
+    "name": "Ian Wilson",
+    "major": "Political Science",
+    "current_company": "NVIDIA",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "KLA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-wilson"
+  },
+  {
+    "name": "Hannah Miller",
+    "major": "Biomedical Engineering",
+    "current_company": "Tesla",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "KLA",
+      "Intel"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-miller"
+  },
+  {
+    "name": "Alice Garcia",
+    "major": "Mechanical Engineering",
+    "current_company": "BenchSci",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Amazon",
+      "Waymo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-garcia"
+  },
+  {
+    "name": "Charlie Smith",
+    "major": "Biomedical Engineering",
+    "current_company": "NVIDIA",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "Tesla"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-smith"
+  },
+  {
+    "name": "Fiona Brown",
+    "major": "Electrical Engineering",
+    "current_company": "Databricks",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Stripe",
+      "Amazon",
+      "Meta"
+    ],
+    "linkedin": "https://www.linkedin.com/in/fiona-brown"
+  },
+  {
+    "name": "Bob Jones",
+    "major": "Mechanical Engineering",
+    "current_company": "OpenAI",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "Microsoft",
+      "Tesla"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-jones"
+  },
+  {
+    "name": "Hannah Smith",
+    "major": "Mechanical Engineering",
+    "current_company": "Intel",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "Duolingo",
+      "Microsoft"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-smith"
+  },
+  {
+    "name": "Hannah Jones",
+    "major": "Mathematics",
+    "current_company": "OpenAI",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "BenchSci"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-jones"
+  },
+  {
+    "name": "Hannah Brown",
+    "major": "Political Science",
+    "current_company": "Tesla",
+    "current_position": "Marketing Manager",
+    "previous_companies": [
+      "Duolingo",
+      "Apple"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-brown"
+  },
+  {
+    "name": "Fiona Davis",
+    "major": "Mechanical Engineering",
+    "current_company": "Goldman Sachs",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "Stripe",
+      "Snap Inc.",
+      "OpenAI"
+    ],
+    "linkedin": "https://www.linkedin.com/in/fiona-davis"
+  },
+  {
+    "name": "George Anderson",
+    "major": "Computer Science",
+    "current_company": "NVIDIA",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Tesla"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-anderson"
+  },
+  {
+    "name": "Diana Johnson",
+    "major": "Business",
+    "current_company": "Apple",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "Duolingo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-johnson"
+  },
+  {
+    "name": "Bob Garcia",
+    "major": "Mechanical Engineering",
+    "current_company": "NVIDIA",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Cruise",
+      "Meta",
+      "OpenAI"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-garcia"
+  },
+  {
+    "name": "Jasmine Garcia",
+    "major": "Data Science",
+    "current_company": "Google",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "Microsoft",
+      "Snap Inc.",
+      "Duolingo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jasmine-garcia"
+  },
+  {
+    "name": "Ethan Miller",
+    "major": "Mechanical Engineering",
+    "current_company": "Apple",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "Microsoft",
+      "Databricks",
+      "Figma"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-miller"
+  },
+  {
+    "name": "George Jones",
+    "major": "Biomedical Engineering",
+    "current_company": "Cruise",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "KLA",
+      "BenchSci"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-jones"
+  },
+  {
+    "name": "Hannah Williams",
+    "major": "Mathematics",
+    "current_company": "Meta",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "Goldman Sachs",
+      "Figma"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-williams"
+  },
+  {
+    "name": "Hannah Anderson",
+    "major": "Electrical Engineering",
+    "current_company": "MedTechAI",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "Waymo",
+      "OpenAI",
+      "Stripe"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-anderson"
+  },
+  {
+    "name": "Alice Smith",
+    "major": "Psychology",
+    "current_company": "Intel",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Waymo",
+      "Snap Inc.",
+      "KLA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-smith"
+  },
+  {
+    "name": "Jasmine Miller",
+    "major": "Mathematics",
+    "current_company": "Amazon",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "Google"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jasmine-miller"
+  },
+  {
+    "name": "Diana Miller",
+    "major": "Business",
+    "current_company": "Waymo",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "OpenAI",
+      "KLA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-miller"
+  },
+  {
+    "name": "Charlie Smith",
+    "major": "Business",
+    "current_company": "Microsoft",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "NVIDIA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-smith"
+  },
+  {
+    "name": "Fiona Wilson",
+    "major": "Political Science",
+    "current_company": "Amazon",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "KLA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/fiona-wilson"
+  },
+  {
+    "name": "Jasmine Johnson",
+    "major": "Economics",
+    "current_company": "Goldman Sachs",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "Stripe",
+      "KLA",
+      "Amazon"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jasmine-johnson"
+  },
+  {
+    "name": "Jasmine Williams",
+    "major": "Business",
+    "current_company": "Meta",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "Duolingo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jasmine-williams"
+  },
+  {
+    "name": "Ian Smith",
+    "major": "Electrical Engineering",
+    "current_company": "NVIDIA",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "Amazon"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-smith"
+  },
+  {
+    "name": "Ian Miller",
+    "major": "Political Science",
+    "current_company": "MedTechAI",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "Amazon",
+      "KLA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-miller"
+  },
+  {
+    "name": "Bob Williams",
+    "major": "Electrical Engineering",
+    "current_company": "Waymo",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Snap Inc."
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-williams"
+  },
+  {
+    "name": "Hannah Anderson",
+    "major": "Mathematics",
+    "current_company": "Databricks",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Tesla",
+      "Microsoft",
+      "Waymo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-anderson"
+  },
+  {
+    "name": "Ethan Garcia",
+    "major": "Biomedical Engineering",
+    "current_company": "Google",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "Snap Inc.",
+      "Microsoft"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-garcia"
+  },
+  {
+    "name": "Alice Williams",
+    "major": "Psychology",
+    "current_company": "Stripe",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "BenchSci",
+      "KLA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-williams"
+  },
+  {
+    "name": "Ethan Brown",
+    "major": "Psychology",
+    "current_company": "Google",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "Tesla",
+      "NVIDIA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-brown"
+  },
+  {
+    "name": "Ian Miller",
+    "major": "Data Science",
+    "current_company": "Microsoft",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "Duolingo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-miller"
+  },
+  {
+    "name": "Ian Garcia",
+    "major": "Biomedical Engineering",
+    "current_company": "OpenAI",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "Databricks"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-garcia"
+  },
+  {
+    "name": "Ian Brown",
+    "major": "Economics",
+    "current_company": "KLA",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "Tesla",
+      "Intel"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-brown"
+  },
+  {
+    "name": "Diana Smith",
+    "major": "Political Science",
+    "current_company": "Microsoft",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "Cruise"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-smith"
+  },
+  {
+    "name": "George Davis",
+    "major": "Mechanical Engineering",
+    "current_company": "BenchSci",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "OpenAI"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-davis"
+  },
+  {
+    "name": "Alice Smith",
+    "major": "Data Science",
+    "current_company": "Goldman Sachs",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Waymo",
+      "KLA",
+      "MedTechAI"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-smith"
+  },
+  {
+    "name": "Bob Brown",
+    "major": "Computer Science",
+    "current_company": "Intel",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "Figma",
+      "Microsoft"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-brown"
+  },
+  {
+    "name": "Diana Brown",
+    "major": "Mathematics",
+    "current_company": "Databricks",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "Amazon",
+      "MedTechAI"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-brown"
+  },
+  {
+    "name": "Charlie Davis",
+    "major": "Mathematics",
+    "current_company": "Meta",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "Tesla"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-davis"
+  },
+  {
+    "name": "Hannah Anderson",
+    "major": "Mathematics",
+    "current_company": "Waymo",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "BenchSci",
+      "Snap Inc.",
+      "Duolingo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-anderson"
+  },
+  {
+    "name": "Alice Smith",
+    "major": "Biomedical Engineering",
+    "current_company": "Snap Inc.",
+    "current_position": "Marketing Manager",
+    "previous_companies": [
+      "KLA",
+      "Meta"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-smith"
+  },
+  {
+    "name": "Ian Johnson",
+    "major": "Biomedical Engineering",
+    "current_company": "Microsoft",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Amazon",
+      "Intel",
+      "Google"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-johnson"
+  },
+  {
+    "name": "Ian Anderson",
+    "major": "Electrical Engineering",
+    "current_company": "Intel",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "Snap Inc.",
+      "Amazon"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-anderson"
+  },
+  {
+    "name": "Hannah Miller",
+    "major": "Political Science",
+    "current_company": "Figma",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "Goldman Sachs"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-miller"
+  },
+  {
+    "name": "Bob Miller",
+    "major": "Mechanical Engineering",
+    "current_company": "Cruise",
+    "current_position": "Marketing Manager",
+    "previous_companies": [
+      "Intel",
+      "Goldman Sachs"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-miller"
+  },
+  {
+    "name": "Ian Miller",
+    "major": "Data Science",
+    "current_company": "Figma",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "KLA",
+      "Databricks"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-miller"
+  },
+  {
+    "name": "Charlie Miller",
+    "major": "Biomedical Engineering",
+    "current_company": "KLA",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "BenchSci"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-miller"
+  },
+  {
+    "name": "Jasmine Williams",
+    "major": "Computer Science",
+    "current_company": "Duolingo",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "Snap Inc.",
+      "Goldman Sachs"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jasmine-williams"
+  },
+  {
+    "name": "Charlie Miller",
+    "major": "Economics",
+    "current_company": "Cruise",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "Amazon"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-miller"
+  },
+  {
+    "name": "Jasmine Jones",
+    "major": "Psychology",
+    "current_company": "Goldman Sachs",
+    "current_position": "Marketing Manager",
+    "previous_companies": [
+      "MedTechAI",
+      "Amazon"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jasmine-jones"
+  },
+  {
+    "name": "George Williams",
+    "major": "Economics",
+    "current_company": "Google",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "Goldman Sachs",
+      "MedTechAI",
+      "Meta"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-williams"
+  },
+  {
+    "name": "Ethan Smith",
+    "major": "Mechanical Engineering",
+    "current_company": "KLA",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Figma"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-smith"
+  },
+  {
+    "name": "George Miller",
+    "major": "Mathematics",
+    "current_company": "Goldman Sachs",
+    "current_position": "Marketing Manager",
+    "previous_companies": [
+      "Figma",
+      "NVIDIA",
+      "Duolingo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-miller"
+  },
+  {
+    "name": "Hannah Garcia",
+    "major": "Political Science",
+    "current_company": "Snap Inc.",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Intel"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-garcia"
+  },
+  {
+    "name": "George Anderson",
+    "major": "Economics",
+    "current_company": "Google",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Waymo",
+      "Duolingo",
+      "Tesla"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-anderson"
+  },
+  {
+    "name": "Charlie Miller",
+    "major": "Biomedical Engineering",
+    "current_company": "Meta",
+    "current_position": "Marketing Manager",
+    "previous_companies": [
+      "BenchSci",
+      "Stripe",
+      "Snap Inc."
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-miller"
+  },
+  {
+    "name": "Diana Jones",
+    "major": "Data Science",
+    "current_company": "Cruise",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "Amazon"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-jones"
+  },
+  {
+    "name": "Ian Williams",
+    "major": "Electrical Engineering",
+    "current_company": "Google",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "Intel",
+      "MedTechAI"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-williams"
+  },
+  {
+    "name": "Alice Miller",
+    "major": "Computer Science",
+    "current_company": "Figma",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "Meta",
+      "Snap Inc."
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-miller"
+  },
+  {
+    "name": "Jasmine Miller",
+    "major": "Psychology",
+    "current_company": "OpenAI",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "Figma"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jasmine-miller"
+  },
+  {
+    "name": "Fiona Brown",
+    "major": "Biomedical Engineering",
+    "current_company": "Snap Inc.",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Google",
+      "Microsoft",
+      "Goldman Sachs"
+    ],
+    "linkedin": "https://www.linkedin.com/in/fiona-brown"
+  },
+  {
+    "name": "Jasmine Garcia",
+    "major": "Biomedical Engineering",
+    "current_company": "Waymo",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "MedTechAI",
+      "OpenAI",
+      "BenchSci"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jasmine-garcia"
+  },
+  {
+    "name": "Charlie Johnson",
+    "major": "Computer Science",
+    "current_company": "Figma",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "Intel",
+      "Google"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-johnson"
+  },
+  {
+    "name": "Charlie Jones",
+    "major": "Data Science",
+    "current_company": "Google",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Databricks",
+      "NVIDIA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-jones"
+  },
+  {
+    "name": "Bob Miller",
+    "major": "Mathematics",
+    "current_company": "Goldman Sachs",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "BenchSci",
+      "NVIDIA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-miller"
+  },
+  {
+    "name": "Ian Brown",
+    "major": "Business",
+    "current_company": "KLA",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Amazon",
+      "Cruise",
+      "Tesla"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-brown"
+  },
+  {
+    "name": "Diana Smith",
+    "major": "Computer Science",
+    "current_company": "Figma",
+    "current_position": "Marketing Manager",
+    "previous_companies": [
+      "Microsoft",
+      "Goldman Sachs"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-smith"
+  },
+  {
+    "name": "George Jones",
+    "major": "Data Science",
+    "current_company": "Figma",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "Apple",
+      "Cruise"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-jones"
+  },
+  {
+    "name": "Bob Miller",
+    "major": "Psychology",
+    "current_company": "Meta",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "Apple",
+      "Snap Inc."
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-miller"
+  },
+  {
+    "name": "Fiona Jones",
+    "major": "Mathematics",
+    "current_company": "Waymo",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "OpenAI"
+    ],
+    "linkedin": "https://www.linkedin.com/in/fiona-jones"
+  },
+  {
+    "name": "Bob Miller",
+    "major": "Data Science",
+    "current_company": "Databricks",
+    "current_position": "Marketing Manager",
+    "previous_companies": [
+      "Tesla",
+      "Figma"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-miller"
+  },
+  {
+    "name": "George Smith",
+    "major": "Business",
+    "current_company": "KLA",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Intel"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-smith"
+  },
+  {
+    "name": "Jasmine Brown",
+    "major": "Electrical Engineering",
+    "current_company": "Snap Inc.",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Databricks",
+      "Meta"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jasmine-brown"
+  },
+  {
+    "name": "Ethan Davis",
+    "major": "Business",
+    "current_company": "Intel",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "MedTechAI",
+      "NVIDIA",
+      "Tesla"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-davis"
+  },
+  {
+    "name": "Charlie Anderson",
+    "major": "Political Science",
+    "current_company": "Stripe",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "Intel",
+      "Figma",
+      "Goldman Sachs"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-anderson"
+  },
+  {
+    "name": "George Williams",
+    "major": "Computer Science",
+    "current_company": "Amazon",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "Databricks",
+      "Intel",
+      "Snap Inc."
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-williams"
+  },
+  {
+    "name": "Jasmine Johnson",
+    "major": "Mathematics",
+    "current_company": "Figma",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "KLA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jasmine-johnson"
+  },
+  {
+    "name": "Charlie Brown",
+    "major": "Political Science",
+    "current_company": "OpenAI",
+    "current_position": "Marketing Manager",
+    "previous_companies": [
+      "BenchSci",
+      "Waymo",
+      "Intel"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-brown"
+  },
+  {
+    "name": "Alice Johnson",
+    "major": "Data Science",
+    "current_company": "MedTechAI",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Amazon",
+      "OpenAI",
+      "NVIDIA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-johnson"
+  },
+  {
+    "name": "Charlie Johnson",
+    "major": "Psychology",
+    "current_company": "Cruise",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "KLA",
+      "Microsoft",
+      "Intel"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-johnson"
+  },
+  {
+    "name": "Bob Smith",
+    "major": "Electrical Engineering",
+    "current_company": "NVIDIA",
+    "current_position": "Marketing Manager",
+    "previous_companies": [
+      "KLA",
+      "Duolingo",
+      "Goldman Sachs"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-smith"
+  },
+  {
+    "name": "Jasmine Johnson",
+    "major": "Psychology",
+    "current_company": "Duolingo",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "Goldman Sachs"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jasmine-johnson"
+  },
+  {
+    "name": "Ian Johnson",
+    "major": "Political Science",
+    "current_company": "Duolingo",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Apple",
+      "Tesla"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-johnson"
+  },
+  {
+    "name": "Ethan Wilson",
+    "major": "Mathematics",
+    "current_company": "Intel",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "OpenAI"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-wilson"
+  },
+  {
+    "name": "Bob Davis",
+    "major": "Mechanical Engineering",
+    "current_company": "NVIDIA",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "Tesla"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-davis"
+  },
+  {
+    "name": "Ian Anderson",
+    "major": "Business",
+    "current_company": "NVIDIA",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "Microsoft"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-anderson"
+  },
+  {
+    "name": "Diana Williams",
+    "major": "Business",
+    "current_company": "Tesla",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Amazon"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-williams"
+  },
+  {
+    "name": "Charlie Anderson",
+    "major": "Psychology",
+    "current_company": "Tesla",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "Intel",
+      "Apple"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-anderson"
+  },
+  {
+    "name": "Diana Wilson",
+    "major": "Mathematics",
+    "current_company": "Databricks",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "Goldman Sachs",
+      "Google",
+      "Meta"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-wilson"
+  },
+  {
+    "name": "Alice Brown",
+    "major": "Mathematics",
+    "current_company": "Google",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "Duolingo",
+      "Figma"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-brown"
+  },
+  {
+    "name": "Diana Miller",
+    "major": "Data Science",
+    "current_company": "Intel",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "Databricks",
+      "Snap Inc."
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-miller"
+  },
+  {
+    "name": "Hannah Williams",
+    "major": "Mathematics",
+    "current_company": "Cruise",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "Tesla",
+      "Microsoft",
+      "Apple"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-williams"
+  },
+  {
+    "name": "Fiona Anderson",
+    "major": "Electrical Engineering",
+    "current_company": "Duolingo",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "Amazon",
+      "Tesla",
+      "Waymo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/fiona-anderson"
+  },
+  {
+    "name": "Bob Brown",
+    "major": "Biomedical Engineering",
+    "current_company": "KLA",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "Cruise",
+      "Meta"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-brown"
+  },
+  {
+    "name": "Diana Smith",
+    "major": "Business",
+    "current_company": "OpenAI",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "Meta",
+      "Goldman Sachs"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-smith"
+  },
+  {
+    "name": "Diana Johnson",
+    "major": "Electrical Engineering",
+    "current_company": "Goldman Sachs",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "Tesla"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-johnson"
+  },
+  {
+    "name": "Ian Jones",
+    "major": "Computer Science",
+    "current_company": "KLA",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Databricks",
+      "Stripe"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-jones"
+  },
+  {
+    "name": "Ethan Anderson",
+    "major": "Data Science",
+    "current_company": "Tesla",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "Goldman Sachs",
+      "Apple",
+      "Cruise"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-anderson"
+  },
+  {
+    "name": "Ethan Davis",
+    "major": "Psychology",
+    "current_company": "Goldman Sachs",
+    "current_position": "Marketing Manager",
+    "previous_companies": [
+      "OpenAI",
+      "BenchSci",
+      "Meta"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-davis"
+  },
+  {
+    "name": "Fiona Johnson",
+    "major": "Political Science",
+    "current_company": "Goldman Sachs",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "Snap Inc."
+    ],
+    "linkedin": "https://www.linkedin.com/in/fiona-johnson"
+  },
+  {
+    "name": "Jasmine Davis",
+    "major": "Biomedical Engineering",
+    "current_company": "Databricks",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "Waymo",
+      "Microsoft"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jasmine-davis"
+  },
+  {
+    "name": "Ian Miller",
+    "major": "Mechanical Engineering",
+    "current_company": "MedTechAI",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "Cruise",
+      "Snap Inc.",
+      "NVIDIA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-miller"
+  },
+  {
+    "name": "Bob Wilson",
+    "major": "Business",
+    "current_company": "KLA",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "Waymo",
+      "Snap Inc.",
+      "BenchSci"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-wilson"
+  },
+  {
+    "name": "Alice Brown",
+    "major": "Business",
+    "current_company": "OpenAI",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "Cruise"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-brown"
+  },
+  {
+    "name": "Bob Miller",
+    "major": "Data Science",
+    "current_company": "Cruise",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Snap Inc.",
+      "Duolingo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-miller"
+  },
+  {
+    "name": "Bob Davis",
+    "major": "Electrical Engineering",
+    "current_company": "Snap Inc.",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "Google",
+      "KLA",
+      "NVIDIA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-davis"
+  },
+  {
+    "name": "George Wilson",
+    "major": "Political Science",
+    "current_company": "Snap Inc.",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "BenchSci",
+      "Apple",
+      "Waymo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-wilson"
+  },
+  {
+    "name": "Alice Davis",
+    "major": "Electrical Engineering",
+    "current_company": "KLA",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "Databricks",
+      "Goldman Sachs",
+      "Apple"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-davis"
+  },
+  {
+    "name": "Ethan Wilson",
+    "major": "Political Science",
+    "current_company": "Stripe",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "Snap Inc.",
+      "Databricks",
+      "Tesla"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-wilson"
+  },
+  {
+    "name": "George Brown",
+    "major": "Mechanical Engineering",
+    "current_company": "Meta",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Duolingo",
+      "MedTechAI"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-brown"
+  },
+  {
+    "name": "Ethan Anderson",
+    "major": "Computer Science",
+    "current_company": "Apple",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Intel",
+      "Goldman Sachs",
+      "Amazon"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-anderson"
+  },
+  {
+    "name": "Charlie Davis",
+    "major": "Psychology",
+    "current_company": "Microsoft",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "Stripe",
+      "Intel",
+      "Goldman Sachs"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-davis"
+  },
+  {
+    "name": "George Williams",
+    "major": "Psychology",
+    "current_company": "OpenAI",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Apple",
+      "Databricks"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-williams"
+  },
+  {
+    "name": "Ethan Smith",
+    "major": "Political Science",
+    "current_company": "Intel",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Tesla"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-smith"
+  },
+  {
+    "name": "Hannah Williams",
+    "major": "Data Science",
+    "current_company": "BenchSci",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "KLA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-williams"
+  },
+  {
+    "name": "Alice Anderson",
+    "major": "Biomedical Engineering",
+    "current_company": "Figma",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "Intel",
+      "Goldman Sachs"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-anderson"
+  },
+  {
+    "name": "Alice Anderson",
+    "major": "Mechanical Engineering",
+    "current_company": "Duolingo",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Google",
+      "NVIDIA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-anderson"
+  },
+  {
+    "name": "Alice Miller",
+    "major": "Data Science",
+    "current_company": "BenchSci",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Apple"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-miller"
+  },
+  {
+    "name": "Diana Anderson",
+    "major": "Biomedical Engineering",
+    "current_company": "BenchSci",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Snap Inc.",
+      "Amazon",
+      "Tesla"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-anderson"
+  },
+  {
+    "name": "Ethan Williams",
+    "major": "Mechanical Engineering",
+    "current_company": "OpenAI",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "Figma",
+      "NVIDIA",
+      "Amazon"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-williams"
+  },
+  {
+    "name": "Charlie Williams",
+    "major": "Political Science",
+    "current_company": "BenchSci",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "Figma",
+      "KLA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-williams"
+  },
+  {
+    "name": "Diana Miller",
+    "major": "Mathematics",
+    "current_company": "Apple",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Google",
+      "Snap Inc."
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-miller"
+  },
+  {
+    "name": "Bob Garcia",
+    "major": "Biomedical Engineering",
+    "current_company": "Goldman Sachs",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "Databricks"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-garcia"
+  },
+  {
+    "name": "Charlie Anderson",
+    "major": "Computer Science",
+    "current_company": "Tesla",
+    "current_position": "Marketing Manager",
+    "previous_companies": [
+      "Stripe",
+      "BenchSci"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-anderson"
+  },
+  {
+    "name": "Ethan Garcia",
+    "major": "Economics",
+    "current_company": "OpenAI",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "Duolingo",
+      "MedTechAI"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-garcia"
+  },
+  {
+    "name": "Charlie Williams",
+    "major": "Psychology",
+    "current_company": "Microsoft",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Cruise"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-williams"
+  },
+  {
+    "name": "Ian Johnson",
+    "major": "Psychology",
+    "current_company": "Apple",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Figma"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-johnson"
+  },
+  {
+    "name": "Fiona Williams",
+    "major": "Mechanical Engineering",
+    "current_company": "Stripe",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "KLA",
+      "Goldman Sachs"
+    ],
+    "linkedin": "https://www.linkedin.com/in/fiona-williams"
+  },
+  {
+    "name": "Charlie Davis",
+    "major": "Political Science",
+    "current_company": "Tesla",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Apple",
+      "Meta",
+      "BenchSci"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-davis"
+  },
+  {
+    "name": "Jasmine Smith",
+    "major": "Electrical Engineering",
+    "current_company": "OpenAI",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Duolingo",
+      "Stripe",
+      "KLA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jasmine-smith"
+  },
+  {
+    "name": "George Garcia",
+    "major": "Data Science",
+    "current_company": "Intel",
+    "current_position": "Marketing Manager",
+    "previous_companies": [
+      "Tesla"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-garcia"
+  },
+  {
+    "name": "Alice Garcia",
+    "major": "Computer Science",
+    "current_company": "Cruise",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "Google"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-garcia"
+  },
+  {
+    "name": "Ethan Johnson",
+    "major": "Economics",
+    "current_company": "Tesla",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Intel",
+      "Amazon",
+      "NVIDIA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-johnson"
+  },
+  {
+    "name": "Fiona Anderson",
+    "major": "Data Science",
+    "current_company": "Stripe",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "Microsoft"
+    ],
+    "linkedin": "https://www.linkedin.com/in/fiona-anderson"
+  },
+  {
+    "name": "Fiona Brown",
+    "major": "Political Science",
+    "current_company": "MedTechAI",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Goldman Sachs",
+      "BenchSci"
+    ],
+    "linkedin": "https://www.linkedin.com/in/fiona-brown"
+  },
+  {
+    "name": "Alice Anderson",
+    "major": "Data Science",
+    "current_company": "NVIDIA",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "Duolingo",
+      "KLA",
+      "Google"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-anderson"
+  },
+  {
+    "name": "Diana Williams",
+    "major": "Economics",
+    "current_company": "OpenAI",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "Goldman Sachs",
+      "Figma",
+      "Apple"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-williams"
+  },
+  {
+    "name": "Bob Smith",
+    "major": "Data Science",
+    "current_company": "Duolingo",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "KLA",
+      "Tesla",
+      "Microsoft"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-smith"
+  },
+  {
+    "name": "Ethan Williams",
+    "major": "Mechanical Engineering",
+    "current_company": "Goldman Sachs",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "Google",
+      "Duolingo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-williams"
+  },
+  {
+    "name": "Fiona Miller",
+    "major": "Mechanical Engineering",
+    "current_company": "Databricks",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "Snap Inc."
+    ],
+    "linkedin": "https://www.linkedin.com/in/fiona-miller"
+  },
+  {
+    "name": "Alice Brown",
+    "major": "Economics",
+    "current_company": "BenchSci",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "Figma",
+      "MedTechAI"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-brown"
+  },
+  {
+    "name": "Hannah Jones",
+    "major": "Mechanical Engineering",
+    "current_company": "OpenAI",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "Databricks",
+      "Figma",
+      "Goldman Sachs"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-jones"
+  },
+  {
+    "name": "Alice Wilson",
+    "major": "Political Science",
+    "current_company": "Tesla",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "Figma",
+      "Stripe",
+      "Duolingo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-wilson"
+  },
+  {
+    "name": "Hannah Anderson",
+    "major": "Political Science",
+    "current_company": "Intel",
+    "current_position": "Marketing Manager",
+    "previous_companies": [
+      "Figma",
+      "Amazon"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-anderson"
+  },
+  {
+    "name": "Charlie Johnson",
+    "major": "Computer Science",
+    "current_company": "Waymo",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "Cruise"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-johnson"
+  },
+  {
+    "name": "Ian Wilson",
+    "major": "Mathematics",
+    "current_company": "Figma",
+    "current_position": "Marketing Manager",
+    "previous_companies": [
+      "Meta",
+      "Google",
+      "Apple"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-wilson"
+  },
+  {
+    "name": "Alice Davis",
+    "major": "Business",
+    "current_company": "NVIDIA",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "Goldman Sachs",
+      "Intel"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-davis"
+  },
+  {
+    "name": "Ian Johnson",
+    "major": "Biomedical Engineering",
+    "current_company": "Figma",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "Cruise",
+      "Amazon"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-johnson"
+  },
+  {
+    "name": "Jasmine Smith",
+    "major": "Psychology",
+    "current_company": "Duolingo",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "Apple"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jasmine-smith"
+  },
+  {
+    "name": "Ethan Davis",
+    "major": "Business",
+    "current_company": "KLA",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "Databricks",
+      "NVIDIA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-davis"
+  },
+  {
+    "name": "Diana Smith",
+    "major": "Data Science",
+    "current_company": "Cruise",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "NVIDIA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-smith"
+  },
+  {
+    "name": "Bob Smith",
+    "major": "Mechanical Engineering",
+    "current_company": "Cruise",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "MedTechAI"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-smith"
+  },
+  {
+    "name": "Hannah Davis",
+    "major": "Electrical Engineering",
+    "current_company": "Intel",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Amazon",
+      "Google",
+      "NVIDIA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-davis"
+  },
+  {
+    "name": "Hannah Smith",
+    "major": "Mathematics",
+    "current_company": "NVIDIA",
+    "current_position": "Marketing Manager",
+    "previous_companies": [
+      "KLA",
+      "OpenAI",
+      "BenchSci"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-smith"
+  },
+  {
+    "name": "Diana Johnson",
+    "major": "Mechanical Engineering",
+    "current_company": "Databricks",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "OpenAI",
+      "Figma"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-johnson"
+  },
+  {
+    "name": "Ian Wilson",
+    "major": "Biomedical Engineering",
+    "current_company": "Tesla",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "KLA",
+      "Amazon",
+      "NVIDIA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-wilson"
+  },
+  {
+    "name": "Alice Anderson",
+    "major": "Computer Science",
+    "current_company": "KLA",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "MedTechAI"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-anderson"
+  },
+  {
+    "name": "Bob Wilson",
+    "major": "Mathematics",
+    "current_company": "NVIDIA",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "Databricks"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-wilson"
+  },
+  {
+    "name": "Charlie Williams",
+    "major": "Biomedical Engineering",
+    "current_company": "Meta",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Intel"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-williams"
+  },
+  {
+    "name": "Ethan Davis",
+    "major": "Psychology",
+    "current_company": "OpenAI",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "MedTechAI",
+      "Snap Inc.",
+      "NVIDIA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-davis"
+  },
+  {
+    "name": "Charlie Williams",
+    "major": "Political Science",
+    "current_company": "Tesla",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "Meta"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-williams"
+  },
+  {
+    "name": "Hannah Smith",
+    "major": "Economics",
+    "current_company": "BenchSci",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Figma",
+      "Waymo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-smith"
+  },
+  {
+    "name": "Ethan Garcia",
+    "major": "Data Science",
+    "current_company": "Stripe",
+    "current_position": "Marketing Manager",
+    "previous_companies": [
+      "Figma"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-garcia"
+  },
+  {
+    "name": "Alice Garcia",
+    "major": "Psychology",
+    "current_company": "BenchSci",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "NVIDIA",
+      "OpenAI",
+      "Intel"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-garcia"
+  },
+  {
+    "name": "Bob Williams",
+    "major": "Business",
+    "current_company": "Waymo",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "Amazon",
+      "Apple"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-williams"
+  },
+  {
+    "name": "George Jones",
+    "major": "Business",
+    "current_company": "Google",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "Cruise"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-jones"
+  },
+  {
+    "name": "Diana Miller",
+    "major": "Electrical Engineering",
+    "current_company": "Apple",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "NVIDIA",
+      "Goldman Sachs",
+      "Tesla"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-miller"
+  },
+  {
+    "name": "Bob Brown",
+    "major": "Computer Science",
+    "current_company": "MedTechAI",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "Tesla"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-brown"
+  },
+  {
+    "name": "Bob Brown",
+    "major": "Economics",
+    "current_company": "Waymo",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "OpenAI",
+      "Google",
+      "Figma"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-brown"
+  },
+  {
+    "name": "George Wilson",
+    "major": "Computer Science",
+    "current_company": "Meta",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "BenchSci",
+      "Tesla",
+      "KLA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-wilson"
+  },
+  {
+    "name": "George Brown",
+    "major": "Business",
+    "current_company": "Snap Inc.",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "Goldman Sachs"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-brown"
+  },
+  {
+    "name": "Charlie Miller",
+    "major": "Political Science",
+    "current_company": "Meta",
+    "current_position": "Marketing Manager",
+    "previous_companies": [
+      "Amazon",
+      "Duolingo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-miller"
+  },
+  {
+    "name": "Bob Garcia",
+    "major": "Psychology",
+    "current_company": "Snap Inc.",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "OpenAI",
+      "KLA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-garcia"
+  },
+  {
+    "name": "Ian Brown",
+    "major": "Political Science",
+    "current_company": "Apple",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "Meta",
+      "Tesla",
+      "Intel"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-brown"
+  },
+  {
+    "name": "Hannah Anderson",
+    "major": "Computer Science",
+    "current_company": "OpenAI",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Intel",
+      "BenchSci"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-anderson"
+  },
+  {
+    "name": "Diana Smith",
+    "major": "Economics",
+    "current_company": "Duolingo",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "Amazon",
+      "Meta"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-smith"
+  },
+  {
+    "name": "George Brown",
+    "major": "Computer Science",
+    "current_company": "BenchSci",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "Microsoft",
+      "OpenAI",
+      "Amazon"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-brown"
+  },
+  {
+    "name": "Bob Anderson",
+    "major": "Computer Science",
+    "current_company": "Databricks",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "Waymo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-anderson"
+  },
+  {
+    "name": "George Miller",
+    "major": "Mathematics",
+    "current_company": "Snap Inc.",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "KLA",
+      "Intel"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-miller"
+  },
+  {
+    "name": "Fiona Jones",
+    "major": "Biomedical Engineering",
+    "current_company": "Goldman Sachs",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "Snap Inc."
+    ],
+    "linkedin": "https://www.linkedin.com/in/fiona-jones"
+  },
+  {
+    "name": "Alice Williams",
+    "major": "Business",
+    "current_company": "Snap Inc.",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "Google",
+      "Meta"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-williams"
+  },
+  {
+    "name": "Diana Davis",
+    "major": "Economics",
+    "current_company": "Duolingo",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "Figma",
+      "Meta",
+      "Databricks"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-davis"
+  },
+  {
+    "name": "Diana Garcia",
+    "major": "Mathematics",
+    "current_company": "Microsoft",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Intel",
+      "Stripe"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-garcia"
+  },
+  {
+    "name": "Hannah Wilson",
+    "major": "Data Science",
+    "current_company": "Meta",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "Snap Inc."
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-wilson"
+  },
+  {
+    "name": "Diana Miller",
+    "major": "Computer Science",
+    "current_company": "Apple",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "Microsoft"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-miller"
+  },
+  {
+    "name": "Ian Williams",
+    "major": "Mathematics",
+    "current_company": "BenchSci",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "Databricks",
+      "Snap Inc."
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-williams"
+  },
+  {
+    "name": "Charlie Davis",
+    "major": "Economics",
+    "current_company": "Amazon",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "Apple",
+      "Meta",
+      "Intel"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-davis"
+  },
+  {
+    "name": "Hannah Jones",
+    "major": "Mathematics",
+    "current_company": "Apple",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "Databricks"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-jones"
+  },
+  {
+    "name": "Ethan Anderson",
+    "major": "Data Science",
+    "current_company": "NVIDIA",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Intel",
+      "Duolingo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-anderson"
+  },
+  {
+    "name": "Charlie Jones",
+    "major": "Political Science",
+    "current_company": "Stripe",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "Microsoft",
+      "Apple",
+      "Google"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-jones"
+  },
+  {
+    "name": "George Brown",
+    "major": "Mechanical Engineering",
+    "current_company": "Stripe",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "BenchSci",
+      "Figma"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-brown"
+  },
+  {
+    "name": "Ian Davis",
+    "major": "Mathematics",
+    "current_company": "Apple",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "Duolingo",
+      "KLA",
+      "Waymo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-davis"
+  },
+  {
+    "name": "Bob Smith",
+    "major": "Data Science",
+    "current_company": "Goldman Sachs",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "Stripe",
+      "Apple"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-smith"
+  },
+  {
+    "name": "Diana Garcia",
+    "major": "Computer Science",
+    "current_company": "BenchSci",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "MedTechAI"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-garcia"
+  },
+  {
+    "name": "Ian Garcia",
+    "major": "Psychology",
+    "current_company": "Figma",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "MedTechAI",
+      "Apple",
+      "Meta"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-garcia"
+  },
+  {
+    "name": "Alice Johnson",
+    "major": "Biomedical Engineering",
+    "current_company": "Tesla",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "OpenAI",
+      "Meta",
+      "Intel"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-johnson"
+  },
+  {
+    "name": "Diana Wilson",
+    "major": "Biomedical Engineering",
+    "current_company": "Cruise",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "Figma",
+      "Waymo",
+      "NVIDIA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-wilson"
+  },
+  {
+    "name": "Jasmine Davis",
+    "major": "Biomedical Engineering",
+    "current_company": "Snap Inc.",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "Microsoft",
+      "NVIDIA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jasmine-davis"
+  },
+  {
+    "name": "Ian Garcia",
+    "major": "Mechanical Engineering",
+    "current_company": "Meta",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Microsoft"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-garcia"
+  },
+  {
+    "name": "Jasmine Smith",
+    "major": "Political Science",
+    "current_company": "Cruise",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Apple",
+      "Tesla",
+      "OpenAI"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jasmine-smith"
+  },
+  {
+    "name": "George Brown",
+    "major": "Economics",
+    "current_company": "Microsoft",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "Waymo",
+      "Figma",
+      "MedTechAI"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-brown"
+  },
+  {
+    "name": "Jasmine Smith",
+    "major": "Data Science",
+    "current_company": "MedTechAI",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "Tesla"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jasmine-smith"
+  },
+  {
+    "name": "Ian Davis",
+    "major": "Electrical Engineering",
+    "current_company": "Figma",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "NVIDIA",
+      "Cruise"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-davis"
+  },
+  {
+    "name": "Jasmine Miller",
+    "major": "Mechanical Engineering",
+    "current_company": "Amazon",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "NVIDIA",
+      "Figma"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jasmine-miller"
+  },
+  {
+    "name": "Bob Jones",
+    "major": "Mathematics",
+    "current_company": "Figma",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "Waymo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-jones"
+  },
+  {
+    "name": "George Smith",
+    "major": "Mechanical Engineering",
+    "current_company": "MedTechAI",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Duolingo",
+      "Figma",
+      "Meta"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-smith"
+  },
+  {
+    "name": "Diana Williams",
+    "major": "Mechanical Engineering",
+    "current_company": "Apple",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Amazon",
+      "Waymo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-williams"
+  },
+  {
+    "name": "Ethan Davis",
+    "major": "Data Science",
+    "current_company": "Apple",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "Meta",
+      "NVIDIA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-davis"
+  },
+  {
+    "name": "Fiona Wilson",
+    "major": "Data Science",
+    "current_company": "MedTechAI",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "NVIDIA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/fiona-wilson"
+  },
+  {
+    "name": "Alice Wilson",
+    "major": "Computer Science",
+    "current_company": "Google",
+    "current_position": "Marketing Manager",
+    "previous_companies": [
+      "Microsoft"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-wilson"
+  },
+  {
+    "name": "Fiona Williams",
+    "major": "Data Science",
+    "current_company": "Meta",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "Intel",
+      "KLA",
+      "Figma"
+    ],
+    "linkedin": "https://www.linkedin.com/in/fiona-williams"
+  },
+  {
+    "name": "Ethan Brown",
+    "major": "Mathematics",
+    "current_company": "MedTechAI",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "BenchSci",
+      "Intel"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-brown"
+  },
+  {
+    "name": "Jasmine Wilson",
+    "major": "Electrical Engineering",
+    "current_company": "Meta",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Duolingo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jasmine-wilson"
+  },
+  {
+    "name": "Jasmine Johnson",
+    "major": "Biomedical Engineering",
+    "current_company": "Databricks",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "Microsoft"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jasmine-johnson"
+  },
+  {
+    "name": "Fiona Johnson",
+    "major": "Political Science",
+    "current_company": "Waymo",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "Figma"
+    ],
+    "linkedin": "https://www.linkedin.com/in/fiona-johnson"
+  },
+  {
+    "name": "Charlie Garcia",
+    "major": "Business",
+    "current_company": "Waymo",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "Duolingo",
+      "Intel",
+      "Google"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-garcia"
+  },
+  {
+    "name": "Ethan Wilson",
+    "major": "Electrical Engineering",
+    "current_company": "Tesla",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "Waymo",
+      "Figma",
+      "Snap Inc."
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-wilson"
+  },
+  {
+    "name": "Diana Smith",
+    "major": "Data Science",
+    "current_company": "Tesla",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "Goldman Sachs",
+      "OpenAI"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-smith"
+  },
+  {
+    "name": "Hannah Anderson",
+    "major": "Computer Science",
+    "current_company": "Stripe",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "Google",
+      "Intel",
+      "Duolingo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-anderson"
+  },
+  {
+    "name": "Ethan Smith",
+    "major": "Mechanical Engineering",
+    "current_company": "Apple",
+    "current_position": "Marketing Manager",
+    "previous_companies": [
+      "MedTechAI",
+      "Databricks",
+      "Duolingo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-smith"
+  },
+  {
+    "name": "Charlie Johnson",
+    "major": "Economics",
+    "current_company": "Waymo",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "Databricks",
+      "Figma"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-johnson"
+  },
+  {
+    "name": "Alice Garcia",
+    "major": "Computer Science",
+    "current_company": "Goldman Sachs",
+    "current_position": "Marketing Manager",
+    "previous_companies": [
+      "Intel"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-garcia"
+  },
+  {
+    "name": "Fiona Anderson",
+    "major": "Mathematics",
+    "current_company": "Duolingo",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "KLA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/fiona-anderson"
+  },
+  {
+    "name": "Ian Miller",
+    "major": "Data Science",
+    "current_company": "Waymo",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "Cruise"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-miller"
+  },
+  {
+    "name": "Charlie Anderson",
+    "major": "Data Science",
+    "current_company": "KLA",
+    "current_position": "Marketing Manager",
+    "previous_companies": [
+      "Tesla"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-anderson"
+  },
+  {
+    "name": "Ethan Johnson",
+    "major": "Computer Science",
+    "current_company": "Duolingo",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "NVIDIA",
+      "Databricks"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-johnson"
+  },
+  {
+    "name": "Hannah Smith",
+    "major": "Computer Science",
+    "current_company": "Waymo",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "Duolingo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-smith"
+  },
+  {
+    "name": "Alice Wilson",
+    "major": "Mechanical Engineering",
+    "current_company": "Stripe",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Intel"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-wilson"
+  },
+  {
+    "name": "Bob Anderson",
+    "major": "Biomedical Engineering",
+    "current_company": "Waymo",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "Intel"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-anderson"
+  },
+  {
+    "name": "Ethan Miller",
+    "major": "Biomedical Engineering",
+    "current_company": "Snap Inc.",
+    "current_position": "Marketing Manager",
+    "previous_companies": [
+      "OpenAI",
+      "Goldman Sachs"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-miller"
+  },
+  {
+    "name": "Charlie Davis",
+    "major": "Biomedical Engineering",
+    "current_company": "MedTechAI",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "Microsoft"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-davis"
+  },
+  {
+    "name": "Ian Wilson",
+    "major": "Political Science",
+    "current_company": "OpenAI",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "Cruise",
+      "BenchSci",
+      "Amazon"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-wilson"
+  },
+  {
+    "name": "Hannah Jones",
+    "major": "Mechanical Engineering",
+    "current_company": "Snap Inc.",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "Microsoft",
+      "BenchSci"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-jones"
+  },
+  {
+    "name": "Ian Wilson",
+    "major": "Electrical Engineering",
+    "current_company": "Meta",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "OpenAI",
+      "Cruise",
+      "Figma"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-wilson"
+  },
+  {
+    "name": "Charlie Jones",
+    "major": "Psychology",
+    "current_company": "Google",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "Duolingo",
+      "Goldman Sachs"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-jones"
+  },
+  {
+    "name": "Hannah Johnson",
+    "major": "Economics",
+    "current_company": "Databricks",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "Goldman Sachs",
+      "Google",
+      "NVIDIA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-johnson"
+  },
+  {
+    "name": "George Smith",
+    "major": "Mathematics",
+    "current_company": "Apple",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "Tesla"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-smith"
+  },
+  {
+    "name": "Charlie Anderson",
+    "major": "Electrical Engineering",
+    "current_company": "Microsoft",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "BenchSci",
+      "KLA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-anderson"
+  },
+  {
+    "name": "Bob Johnson",
+    "major": "Data Science",
+    "current_company": "Stripe",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "Cruise"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-johnson"
+  },
+  {
+    "name": "Ethan Brown",
+    "major": "Electrical Engineering",
+    "current_company": "Apple",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "Meta"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-brown"
+  },
+  {
+    "name": "Alice Wilson",
+    "major": "Economics",
+    "current_company": "Cruise",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "MedTechAI"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-wilson"
+  },
+  {
+    "name": "Ian Garcia",
+    "major": "Computer Science",
+    "current_company": "Duolingo",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "Databricks",
+      "Meta",
+      "Figma"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-garcia"
+  },
+  {
+    "name": "Ethan Brown",
+    "major": "Mechanical Engineering",
+    "current_company": "Snap Inc.",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "Intel"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-brown"
+  },
+  {
+    "name": "Fiona Garcia",
+    "major": "Computer Science",
+    "current_company": "Databricks",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "Intel",
+      "Google",
+      "Apple"
+    ],
+    "linkedin": "https://www.linkedin.com/in/fiona-garcia"
+  },
+  {
+    "name": "Hannah Miller",
+    "major": "Mathematics",
+    "current_company": "Apple",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "Tesla",
+      "Intel",
+      "Goldman Sachs"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-miller"
+  },
+  {
+    "name": "Bob Anderson",
+    "major": "Business",
+    "current_company": "Google",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "NVIDIA",
+      "MedTechAI"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-anderson"
+  },
+  {
+    "name": "Ian Garcia",
+    "major": "Political Science",
+    "current_company": "Google",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Meta",
+      "Databricks"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-garcia"
+  },
+  {
+    "name": "Ian Wilson",
+    "major": "Mathematics",
+    "current_company": "Snap Inc.",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "OpenAI",
+      "Goldman Sachs"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-wilson"
+  },
+  {
+    "name": "Bob Williams",
+    "major": "Mathematics",
+    "current_company": "Cruise",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "Intel",
+      "Microsoft"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-williams"
+  },
+  {
+    "name": "Alice Brown",
+    "major": "Business",
+    "current_company": "Duolingo",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "Stripe"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-brown"
+  },
+  {
+    "name": "Diana Williams",
+    "major": "Electrical Engineering",
+    "current_company": "Snap Inc.",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "Meta"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-williams"
+  },
+  {
+    "name": "Diana Johnson",
+    "major": "Computer Science",
+    "current_company": "Stripe",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Waymo",
+      "NVIDIA",
+      "OpenAI"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-johnson"
+  },
+  {
+    "name": "Alice Anderson",
+    "major": "Computer Science",
+    "current_company": "Figma",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "Google",
+      "OpenAI",
+      "Goldman Sachs"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-anderson"
+  },
+  {
+    "name": "Diana Johnson",
+    "major": "Mathematics",
+    "current_company": "Intel",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "NVIDIA",
+      "Cruise"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-johnson"
+  },
+  {
+    "name": "Charlie Williams",
+    "major": "Electrical Engineering",
+    "current_company": "Cruise",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "Waymo",
+      "Snap Inc."
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-williams"
+  },
+  {
+    "name": "Fiona Johnson",
+    "major": "Biomedical Engineering",
+    "current_company": "Databricks",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Intel"
+    ],
+    "linkedin": "https://www.linkedin.com/in/fiona-johnson"
+  },
+  {
+    "name": "Ethan Brown",
+    "major": "Economics",
+    "current_company": "Figma",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "Microsoft"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-brown"
+  },
+  {
+    "name": "Ian Williams",
+    "major": "Political Science",
+    "current_company": "Stripe",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "Goldman Sachs"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-williams"
+  },
+  {
+    "name": "Alice Wilson",
+    "major": "Mechanical Engineering",
+    "current_company": "Tesla",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "Microsoft",
+      "Apple"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-wilson"
+  },
+  {
+    "name": "Jasmine Johnson",
+    "major": "Economics",
+    "current_company": "NVIDIA",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "Apple",
+      "Google",
+      "Duolingo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jasmine-johnson"
+  },
+  {
+    "name": "Ethan Jones",
+    "major": "Political Science",
+    "current_company": "Snap Inc.",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "MedTechAI",
+      "KLA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-jones"
+  },
+  {
+    "name": "Ethan Brown",
+    "major": "Data Science",
+    "current_company": "Databricks",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "Google",
+      "BenchSci",
+      "Apple"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-brown"
+  },
+  {
+    "name": "Hannah Davis",
+    "major": "Computer Science",
+    "current_company": "Goldman Sachs",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "KLA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-davis"
+  },
+  {
+    "name": "Jasmine Jones",
+    "major": "Biomedical Engineering",
+    "current_company": "OpenAI",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "Microsoft",
+      "Databricks",
+      "Duolingo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jasmine-jones"
+  },
+  {
+    "name": "George Garcia",
+    "major": "Psychology",
+    "current_company": "Microsoft",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "Goldman Sachs",
+      "Waymo",
+      "Amazon"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-garcia"
+  },
+  {
+    "name": "Fiona Johnson",
+    "major": "Data Science",
+    "current_company": "Google",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "OpenAI"
+    ],
+    "linkedin": "https://www.linkedin.com/in/fiona-johnson"
+  },
+  {
+    "name": "Alice Brown",
+    "major": "Electrical Engineering",
+    "current_company": "MedTechAI",
+    "current_position": "Marketing Manager",
+    "previous_companies": [
+      "NVIDIA",
+      "Waymo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-brown"
+  },
+  {
+    "name": "Hannah Anderson",
+    "major": "Biomedical Engineering",
+    "current_company": "Apple",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Snap Inc.",
+      "MedTechAI",
+      "Databricks"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-anderson"
+  },
+  {
+    "name": "Charlie Brown",
+    "major": "Biomedical Engineering",
+    "current_company": "Duolingo",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "OpenAI",
+      "Microsoft"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-brown"
+  },
+  {
+    "name": "Fiona Anderson",
+    "major": "Computer Science",
+    "current_company": "MedTechAI",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "BenchSci"
+    ],
+    "linkedin": "https://www.linkedin.com/in/fiona-anderson"
+  },
+  {
+    "name": "Ian Wilson",
+    "major": "Economics",
+    "current_company": "Databricks",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "Microsoft"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-wilson"
+  },
+  {
+    "name": "Ian Garcia",
+    "major": "Data Science",
+    "current_company": "Apple",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "Cruise",
+      "Databricks"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-garcia"
+  },
+  {
+    "name": "Charlie Anderson",
+    "major": "Political Science",
+    "current_company": "BenchSci",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "Databricks",
+      "Figma"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-anderson"
+  },
+  {
+    "name": "Ian Johnson",
+    "major": "Electrical Engineering",
+    "current_company": "Waymo",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "MedTechAI"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-johnson"
+  },
+  {
+    "name": "Hannah Anderson",
+    "major": "Computer Science",
+    "current_company": "Goldman Sachs",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "Microsoft",
+      "Snap Inc.",
+      "Stripe"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-anderson"
+  },
+  {
+    "name": "Diana Davis",
+    "major": "Mathematics",
+    "current_company": "Snap Inc.",
+    "current_position": "Marketing Manager",
+    "previous_companies": [
+      "NVIDIA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-davis"
+  },
+  {
+    "name": "Hannah Johnson",
+    "major": "Political Science",
+    "current_company": "NVIDIA",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Google",
+      "Waymo",
+      "Microsoft"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-johnson"
+  },
+  {
+    "name": "Ian Johnson",
+    "major": "Biomedical Engineering",
+    "current_company": "MedTechAI",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "Duolingo",
+      "Google"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-johnson"
+  },
+  {
+    "name": "Fiona Brown",
+    "major": "Business",
+    "current_company": "Cruise",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Waymo",
+      "Databricks",
+      "Snap Inc."
+    ],
+    "linkedin": "https://www.linkedin.com/in/fiona-brown"
+  },
+  {
+    "name": "Bob Davis",
+    "major": "Psychology",
+    "current_company": "Waymo",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "Figma",
+      "OpenAI"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-davis"
+  },
+  {
+    "name": "Charlie Johnson",
+    "major": "Business",
+    "current_company": "Intel",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "NVIDIA",
+      "Figma"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-johnson"
+  },
+  {
+    "name": "Ian Jones",
+    "major": "Biomedical Engineering",
+    "current_company": "MedTechAI",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "Databricks"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-jones"
+  },
+  {
+    "name": "Fiona Wilson",
+    "major": "Data Science",
+    "current_company": "Waymo",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "Databricks",
+      "Microsoft"
+    ],
+    "linkedin": "https://www.linkedin.com/in/fiona-wilson"
+  },
+  {
+    "name": "Charlie Johnson",
+    "major": "Computer Science",
+    "current_company": "Figma",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "MedTechAI",
+      "Tesla"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-johnson"
+  },
+  {
+    "name": "Bob Jones",
+    "major": "Mathematics",
+    "current_company": "Microsoft",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "Duolingo",
+      "NVIDIA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-jones"
+  },
+  {
+    "name": "George Brown",
+    "major": "Political Science",
+    "current_company": "Stripe",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "Duolingo",
+      "Cruise",
+      "BenchSci"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-brown"
+  },
+  {
+    "name": "Bob Williams",
+    "major": "Psychology",
+    "current_company": "Snap Inc.",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "Goldman Sachs",
+      "Intel"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-williams"
+  },
+  {
+    "name": "Ethan Davis",
+    "major": "Biomedical Engineering",
+    "current_company": "BenchSci",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "Google"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-davis"
+  },
+  {
+    "name": "Alice Smith",
+    "major": "Business",
+    "current_company": "Tesla",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "Amazon"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-smith"
+  },
+  {
+    "name": "Diana Smith",
+    "major": "Business",
+    "current_company": "Google",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "KLA",
+      "Waymo",
+      "BenchSci"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-smith"
+  },
+  {
+    "name": "Jasmine Garcia",
+    "major": "Biomedical Engineering",
+    "current_company": "MedTechAI",
+    "current_position": "Hardware Engineer",
+    "previous_companies": [
+      "OpenAI"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jasmine-garcia"
+  },
+  {
+    "name": "Charlie Jones",
+    "major": "Mechanical Engineering",
+    "current_company": "Snap Inc.",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "Microsoft",
+      "Amazon",
+      "Meta"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-jones"
+  },
+  {
+    "name": "Charlie Smith",
+    "major": "Computer Science",
+    "current_company": "Cruise",
+    "current_position": "ML Engineer",
+    "previous_companies": [
+      "Apple",
+      "NVIDIA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-smith"
+  },
+  {
+    "name": "Hannah Davis",
+    "major": "Data Science",
+    "current_company": "BenchSci",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Apple",
+      "Waymo",
+      "Figma"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-davis"
+  },
+  {
+    "name": "Diana Johnson",
+    "major": "Business",
+    "current_company": "Meta",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "Databricks"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-johnson"
+  },
+  {
+    "name": "Ethan Miller",
+    "major": "Mechanical Engineering",
+    "current_company": "Goldman Sachs",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "BenchSci",
+      "Apple",
+      "KLA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-miller"
+  },
+  {
+    "name": "Bob Anderson",
+    "major": "Political Science",
+    "current_company": "Tesla",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "Meta",
+      "Duolingo",
+      "Amazon"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-anderson"
+  },
+  {
+    "name": "George Jones",
+    "major": "Business",
+    "current_company": "Goldman Sachs",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "Google"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-jones"
+  },
+  {
+    "name": "Diana Miller",
+    "major": "Biomedical Engineering",
+    "current_company": "MedTechAI",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "KLA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-miller"
+  },
+  {
+    "name": "Diana Miller",
+    "major": "Business",
+    "current_company": "Meta",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Amazon"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-miller"
+  },
+  {
+    "name": "Charlie Smith",
+    "major": "Mechanical Engineering",
+    "current_company": "Databricks",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "Tesla"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-smith"
+  },
+  {
+    "name": "Hannah Wilson",
+    "major": "Psychology",
+    "current_company": "Duolingo",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Intel"
+    ],
+    "linkedin": "https://www.linkedin.com/in/hannah-wilson"
+  },
+  {
+    "name": "Ian Brown",
+    "major": "Electrical Engineering",
+    "current_company": "Intel",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "Cruise",
+      "KLA",
+      "OpenAI"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-brown"
+  },
+  {
+    "name": "Ian Smith",
+    "major": "Mathematics",
+    "current_company": "Stripe",
+    "current_position": "Marketing Manager",
+    "previous_companies": [
+      "NVIDIA",
+      "OpenAI",
+      "BenchSci"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-smith"
+  },
+  {
+    "name": "George Garcia",
+    "major": "Economics",
+    "current_company": "Stripe",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "Amazon"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-garcia"
+  },
+  {
+    "name": "Ethan Davis",
+    "major": "Biomedical Engineering",
+    "current_company": "Cruise",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "Snap Inc."
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-davis"
+  },
+  {
+    "name": "George Miller",
+    "major": "Biomedical Engineering",
+    "current_company": "Snap Inc.",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "BenchSci",
+      "Stripe"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-miller"
+  },
+  {
+    "name": "Ian Jones",
+    "major": "Psychology",
+    "current_company": "Duolingo",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "MedTechAI",
+      "Figma"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-jones"
+  },
+  {
+    "name": "Diana Miller",
+    "major": "Mathematics",
+    "current_company": "Intel",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Amazon"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-miller"
+  },
+  {
+    "name": "Alice Anderson",
+    "major": "Business",
+    "current_company": "Microsoft",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "BenchSci",
+      "Apple"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-anderson"
+  },
+  {
+    "name": "Fiona Anderson",
+    "major": "Business",
+    "current_company": "Meta",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "Intel"
+    ],
+    "linkedin": "https://www.linkedin.com/in/fiona-anderson"
+  },
+  {
+    "name": "Fiona Williams",
+    "major": "Mechanical Engineering",
+    "current_company": "Amazon",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "Figma"
+    ],
+    "linkedin": "https://www.linkedin.com/in/fiona-williams"
+  },
+  {
+    "name": "Ethan Miller",
+    "major": "Mechanical Engineering",
+    "current_company": "Amazon",
+    "current_position": "Marketing Manager",
+    "previous_companies": [
+      "BenchSci",
+      "Figma"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-miller"
+  },
+  {
+    "name": "Jasmine Smith",
+    "major": "Data Science",
+    "current_company": "Figma",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Cruise",
+      "Apple"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jasmine-smith"
+  },
+  {
+    "name": "George Anderson",
+    "major": "Electrical Engineering",
+    "current_company": "Apple",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "Amazon"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-anderson"
+  },
+  {
+    "name": "Fiona Williams",
+    "major": "Computer Science",
+    "current_company": "Meta",
+    "current_position": "Marketing Manager",
+    "previous_companies": [
+      "Databricks",
+      "Amazon",
+      "Snap Inc."
+    ],
+    "linkedin": "https://www.linkedin.com/in/fiona-williams"
+  },
+  {
+    "name": "Bob Johnson",
+    "major": "Psychology",
+    "current_company": "BenchSci",
+    "current_position": "Product Manager",
+    "previous_companies": [
+      "Duolingo"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bob-johnson"
+  },
+  {
+    "name": "Alice Wilson",
+    "major": "Data Science",
+    "current_company": "NVIDIA",
+    "current_position": "Software Engineer",
+    "previous_companies": [
+      "Stripe"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-wilson"
+  },
+  {
+    "name": "Jasmine Wilson",
+    "major": "Biomedical Engineering",
+    "current_company": "Amazon",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Microsoft",
+      "Snap Inc.",
+      "KLA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jasmine-wilson"
+  },
+  {
+    "name": "George Wilson",
+    "major": "Mechanical Engineering",
+    "current_company": "Google",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "OpenAI",
+      "MedTechAI",
+      "NVIDIA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-wilson"
+  },
+  {
+    "name": "Ethan Jones",
+    "major": "Mathematics",
+    "current_company": "Snap Inc.",
+    "current_position": "Financial Analyst",
+    "previous_companies": [
+      "Meta",
+      "KLA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ethan-jones"
+  },
+  {
+    "name": "Alice Williams",
+    "major": "Computer Science",
+    "current_company": "Databricks",
+    "current_position": "UX Designer",
+    "previous_companies": [
+      "Goldman Sachs"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alice-williams"
+  },
+  {
+    "name": "George Anderson",
+    "major": "Economics",
+    "current_company": "Cruise",
+    "current_position": "AI Researcher",
+    "previous_companies": [
+      "NVIDIA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/george-anderson"
+  },
+  {
+    "name": "Diana Anderson",
+    "major": "Electrical Engineering",
+    "current_company": "NVIDIA",
+    "current_position": "Data Scientist",
+    "previous_companies": [
+      "Stripe"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diana-anderson"
+  },
+  {
+    "name": "Charlie Brown",
+    "major": "Psychology",
+    "current_company": "Amazon",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "KLA",
+      "Microsoft"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-brown"
+  },
+  {
+    "name": "Charlie Davis",
+    "major": "Psychology",
+    "current_company": "Amazon",
+    "current_position": "Consultant",
+    "previous_companies": [
+      "NVIDIA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlie-davis"
+  }
+]

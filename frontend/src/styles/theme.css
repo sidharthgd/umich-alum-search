@@ -1,0 +1,70 @@
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #00274C;
+  color: #FFFFFF;
+}
+
+.container {
+  max-width: 600px;
+  margin: 80px auto;
+  text-align: center;
+  padding: 2rem;
+  border-radius: 12px;
+  background-color: #001F3F;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+
+.title {
+  font-size: 2.5rem;
+  color: #FFCB05;
+}
+
+.subtitle {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+  color: #FFCB05;
+}
+
+.chat-input-container {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+}
+
+.chat-input {
+  flex: 1;
+  padding: 0.75rem;
+  font-size: 1rem;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+  width: 60%;
+}
+
+.send-button {
+  background-color: #FFCB05;
+  border: none;
+  color: #00274C;
+  padding: 0.75rem 1.5rem;
+  font-weight: bold;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.send-button:hover {
+  background-color: #FFD524;
+}
+
+.results-heading {
+  font-size: 1.8rem;
+  color: #FFCB05;
+}
+
+.results-placeholder {
+  margin-top: 1.5rem;
+  font-style: italic;
+  color: #CCCCCC;
+}
